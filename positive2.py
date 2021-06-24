@@ -1,7 +1,7 @@
 # Python program to print positive Numbers in a List
   
 # list of numbers
-list1 = [-10, 21, -4, -45, -66, 93]
+list1 = [12,14,-95,3]
 num = 0
   
 # using while loop     
